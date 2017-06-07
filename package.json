@@ -1,0 +1,24 @@
+{
+  "name": "iot-hub",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server src -p 80",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoutLLC/iot-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoutLLC/iot-hub/issues"
+  },
+  "homepage": "https://github.com/StoutLLC/iot-hub#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
