@@ -58,3 +58,7 @@ typings/
 .env
 
 .idea
+stage/
+prime/
+parts/
+
